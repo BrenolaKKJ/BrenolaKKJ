@@ -3,7 +3,7 @@
 Eu sou <strong>Breno Araujo</strong>, <strong>Sou estudante e amo cursar minha area</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScipt</strong> 
-- 💬 Pergunte-me sobre: <strong>Andar de bicicleta e pesquisar sobre TI</strong>
+- 💬 Pergunte-me sobre: <strong>Tecnologia</strong>
 - 📣 Nós podemos falar em: <strong>Portugês e inglês</strong>
 
 ![VisitorCount](https://profile-counter.glitch.me/{BrenolaKKJ}/count.svg)
