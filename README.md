@@ -8,4 +8,4 @@ Eu sou <strong>Breno Araujo</strong>, <strong>Sou estudante e amo cursar minha a
 
 ![VisitorCount](https://profile-counter.glitch.me/{BrenolaKKJ}/count.svg)
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-581.gif"
+# [Breno Araujo] <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-581.gif"
