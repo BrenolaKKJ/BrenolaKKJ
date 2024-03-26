@@ -1,6 +1,6 @@
 # [Breno Araujo] <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="50px">
 
-Eu sou <strong>Breno Araujo</strong>, <strong>Sou estyudante e amo cursar minha area</strong> 👨🏻‍💻 
+Eu sou <strong>Breno Araujo</strong>, <strong>Sou estudante e amo cursar minha area</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>JavaScipt</strong> 
 - 💬 Pergunte-me sobre: <strong>Andar de bicicleta e pesquisar sobre TI</strong>
