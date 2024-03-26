@@ -1,4 +1,4 @@
-# [Breno Araujo] <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif)" width="30px">
+# [Breno Araujo] <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="30px">
 
 Eu sou <strong>Breno Araujo</strong>, <strong>Sou estyudante e amo cursar minha area</strong> 👨🏻‍💻 
 
@@ -8,4 +8,3 @@ Eu sou <strong>Breno Araujo</strong>, <strong>Sou estyudante e amo cursar minha 
 
 ![VisitorCount](https://profile-counter.glitch.me/{BrenolaKKJ}/count.svg)
 
-https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif
