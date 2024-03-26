@@ -7,3 +7,5 @@ Eu sou <strong>Breno Araujo</strong>, <strong>Sou estyudante e amo cursar minha 
 - 📣 Nós podemos falar em: <strong>Portugês e inglês</strong>
 
 ![VisitorCount](https://profile-counter.glitch.me/{BrenolaKKJ}/count.svg)
+
+<iframe src="https://gifer.com/embed/Kjfq" width=480 height=290.880 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
