@@ -8,4 +8,4 @@ Eu sou <strong>Breno Araujo</strong>, <strong>Sou estyudante e amo cursar minha 
 
 ![VisitorCount](https://profile-counter.glitch.me/{BrenolaKKJ}/count.svg)
 
-<iframe src="https://gifer.com/embed/Kjfq" width=480 height=290.880 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
+https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif
