@@ -2,7 +2,7 @@
 
 Eu sou <strong>Breno Araujo</strong>, <strong>Sou estudante e amo cursar minha area</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScipt</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JavaScipt</strong> <strong>C</strong> 
 - 💬 Pergunte-me sobre: <strong>Tecnologia</strong>
 - 📣 Nós podemos falar em: <strong>Portugês e inglês</strong>
 
